@@ -1,4 +1,4 @@
-<mxfile modified="2020-08-03T05:54:08.502Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="22-D3WGrkBceV22IGPH9" version="13.5.8" type="github">
+<mxfile modified="2020-08-03T05:57:13.320Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="8cgShXSVMgkNhGwbEXkU" version="13.5.8" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="4680" dy="1107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="2800" y="188" width="180" height="194" as="geometry" />
         </mxCell>
         <mxCell id="sLU9cCrLwp9eYd17XX32-30" value="VPC" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=0;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="80" width="1480" height="930" as="geometry" />
+          <mxGeometry x="1110" y="90" width="1480" height="930" as="geometry" />
         </mxCell>
         <mxCell id="sLU9cCrLwp9eYd17XX32-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="sLU9cCrLwp9eYd17XX32-43" target="sLU9cCrLwp9eYd17XX32-22">
           <mxGeometry relative="1" as="geometry" />
@@ -194,6 +194,9 @@
               <mxPoint x="2010" y="380" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sLU9cCrLwp9eYd17XX32-75" value="Cloud Watch" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cloudwatch;fillColor=#759C3E;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2370" y="840" width="82.5" height="93" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
